@@ -29,6 +29,7 @@ A curated list of examples of self-reference in art, science, and technology.
 ## Mathematics
 
 - [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) - Does the set of all those sets that do not contain themselves contain itself?
+- [Trott’s constant](https://www.johndcook.com/blog/2019/06/07/trotts-constant/) - The unique number whose digits equal its continued fraction coefficients.
 - [Tupper's self-referential formula](https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula) - A formula that visually represents itself when graphed at a specific location in the (x, y) plane.
 
 ## Computing

@@ -46,6 +46,7 @@ A curated list of examples of self-reference in art, science, and technology.
 ## Web
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) - An article about Wikipedia on Wikipedia.
+- [Wayback Machine](https://web.archive.org/web/*/https://web.archive.org/) - Snapshots of The Internet Archive stored in The Internet Archive.
 - [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference) - A curated list of examples of self-reference in art, science, and technology, which includes itself.
 
 ## Other

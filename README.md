@@ -29,13 +29,13 @@ A curated list of examples of self-reference in art, science, and technology.
 ## Mathematics
 
 - [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) - Does the set of all those sets that do not contain themselves contain itself?
-- [Trott’s constant](https://www.johndcook.com/blog/2019/06/07/trotts-constant/) - The unique number whose digits equal its continued fraction coefficients.
+- [Trott's constant](https://www.johndcook.com/blog/2019/06/07/trotts-constant/) - The unique number whose digits equal its continued fraction coefficients.
 - [Tupper's self-referential formula](https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula) - A formula that visually represents itself when graphed at a specific location in the (x, y) plane.
 
 ## Computing
 
 - [Quine](https://en.wikipedia.org/wiki/Quine_(computing)) - A computer program that takes no input and produces a copy of its own source code as its only output.
-- [An Ouroboros Quine](https://github.com/mame/quine-relay) - A Ruby program that generates Rust program that generates Scala program that generates ...(through 128 languages in total)... REXX program that generates the original Ruby code again.
+- [An Ouroboros Quine](https://github.com/mame/quine-relay) - A Ruby program that generates Rust program that generates Scala program that generates (through 128 languages in total) REXX program that generates the original Ruby code again.
 - [A radiation hardened quine](https://github.com/mame/radiation-hardened-quine) - A Ruby quine that remains a quine after any one of the characters in its source code is removed.
 - [quinesnake](https://github.com/taylorconor/quinesnake) - A quine that plays snake over its own source.
 - [A Micro-Manual for LISP - Not the whole truth](https://github.com/jaseemabid/micromanual) - The LISP interpreter written in LISP.

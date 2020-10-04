@@ -13,10 +13,8 @@ A curated list of examples of self-reference in art, science, and technology.
 
 ## Art
 
-- [Story within a story](https://en.wikipedia.org/wiki/Story_within_a_story) - A literary device in which one character within a narrative narrates.
 - [The Treachery of Images](https://collections.lacma.org/node/239578) - A painting by René Magritte.
 - [Triple Self-Portrait](http://www.nrm.org/MT/text/TripleSelf.html) - A painting by Norman Rockwell.
-- [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros) - An ancient symbol depicting a serpent or dragon eating its own tail.
 - [Mise en abyme](https://en.wikipedia.org/wiki/Mise_en_abyme) - A formal technique of placing a copy of an image within itself.
 - [Droste effect](https://en.wikipedia.org/wiki/Droste_effect) - The effect of a picture recursively appearing within itself, in a place where a similar picture would realistically be expected to appear.
 

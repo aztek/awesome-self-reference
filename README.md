@@ -39,7 +39,7 @@ A curated list of examples of self-reference in art, science, and technology.
   - [A radiation hardened quine](https://github.com/mame/radiation-hardened-quine) - A Ruby quine that remains a quine after any one of the characters in its source code is removed.
   - [quinesnake](https://github.com/taylorconor/quinesnake) - A quine that plays snake over its own source.
   - [html_wysiwyg](https://secretgeek.github.io/html_wysiwyg/html.html) - A truly naked, brutalist html quine.
-- [Meta-circular evaluator](https://en.wikipedia.org/wiki/Meta-circular_evaluator) - an interpreter that defines each feature of the interpreted language using a similar facility of the interpreter's host language.
+- [Meta-circular evaluator](https://en.wikipedia.org/wiki/Meta-circular_evaluator) - An interpreter that defines each feature of the interpreted language using a similar facility of the interpreter's host language.
 - [A Micro-Manual for LISP - Not the whole truth](https://github.com/jaseemabid/micromanual) - The LISP interpreter written in LISP.
 - [Fix-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator) - A higher-order function fix that, for any function f that has an attractive fixed point, returns a fixed point x of that function.
 - [Universal Turing machine](https://en.wikipedia.org/wiki/Universal_Turing_machine) - A Turing machine that can simulate an arbitrary Turing machine on arbitrary input.

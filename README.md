@@ -1,4 +1,4 @@
-# Awesome Self-Reference [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome Self-Reference [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of examples of self-reference in art, science, and technology.
 

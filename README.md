@@ -57,8 +57,3 @@ A curated list of examples of self-reference in art, science, and technology.
 - [Hofstadter's law](https://en.wikipedia.org/wiki/Hofstadter%27s_law) - "It always takes longer than you expect, even when you take into account Hofstadter's Law".
 - [Miniatur Wunderland](https://www.miniatur-wunderland.com/discover-wunderland/worlds/hamburg/speicherstadt/) - The world's largest model railway in Hamburg, Germany has a model of itself in its model of Hamburg.
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Evgenii Kotelnikov](https://github.com/aztek) has waived all copyright and related or neighboring rights to this work.

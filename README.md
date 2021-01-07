@@ -38,6 +38,7 @@ A curated list of examples of self-reference in art, science, and technology.
   - [An Ouroboros Quine](https://github.com/mame/quine-relay) - A Ruby program that generates Rust program that generates Scala program that generates (through 128 languages in total) REXX program that generates the original Ruby code again.
   - [A radiation hardened quine](https://github.com/mame/radiation-hardened-quine) - A Ruby quine that remains a quine after any one of the characters in its source code is removed.
   - [quinesnake](https://github.com/taylorconor/quinesnake) - A quine that plays snake over its own source.
+  - [The Qlobe](http://mamememo.blogspot.com/2010/09/qlobe.html) - A Ruby quine with an ASCII image of a globe in its source code that rotates by 45 degrees after each run, eventually coming around after eight runs.
   - [html_wysiwyg](https://secretgeek.github.io/html_wysiwyg/html.html) - A truly naked, brutalist html quine.
 - [Meta-circular evaluator](https://en.wikipedia.org/wiki/Meta-circular_evaluator) - An interpreter that defines each feature of the interpreted language using a similar facility of the interpreter's host language.
 - [A Micro-Manual for LISP - Not the whole truth](https://github.com/jaseemabid/micromanual) - The LISP interpreter written in LISP.

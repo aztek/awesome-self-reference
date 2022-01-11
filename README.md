@@ -46,7 +46,7 @@ A curated list of examples of self-reference in art, science, and technology.
 - [Fix-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator) - A higher-order function fix that, for any function f that has an attractive fixed point, returns a fixed point x of that function.
 - [Universal Turing machine](https://en.wikipedia.org/wiki/Universal_Turing_machine) - A Turing machine that can simulate an arbitrary Turing machine on arbitrary input.
 - [Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(compilers)) - A technique for producing a self-compiling compiler - that is, compiler (or assembler) written in the source programming language that it intends to compile.
-- [Man man](https://www.man7.org/linux/man-pages/man1/man.1.html) - Manual pager man page (accessed using `$ man man`)
+- [Man man](https://www.man7.org/linux/man-pages/man1/man.1.html) - Manual pager man page (accessed using `$ man man`).
 
 ## Web
 
@@ -60,3 +60,4 @@ A curated list of examples of self-reference in art, science, and technology.
 - [Hofstadter's law](https://en.wikipedia.org/wiki/Hofstadter%27s_law) - "It always takes longer than you expect, even when you take into account Hofstadter's Law".
 - [Miniatur Wunderland](https://www.miniatur-wunderland.com/discover-wunderland/worlds/hamburg/speicherstadt/) - The world's largest model railway in Hamburg, Germany has a model of itself in its model of Hamburg.
 - [Untitled Goose Game](https://untitledgoosegame.fandom.com/wiki/Model_Village) - The village where Untitled Goose Game takes place contains a small model version of itself, and also a tiny version of the model inside that.
+

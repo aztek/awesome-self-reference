@@ -41,6 +41,7 @@ A curated list of examples of self-reference in art, science, and technology.
   - [quinesnake](https://github.com/taylorconor/quinesnake) - A quine that plays snake over its own source.
   - [The Qlobe](http://mamememo.blogspot.com/2010/09/qlobe.html) - A Ruby quine with an ASCII image of a globe in its source code that rotates by 45 degrees after each run, eventually coming around after eight runs.
   - [html_wysiwyg](https://secretgeek.github.io/html_wysiwyg/html.html) - A truly naked, brutalist html quine.
+- [hashquine_by_retr0id.png](https://twitter.com/David3141593/status/1573218394358386688) - A PNG image of the ouroboros that displays its own MD5 hash.
 - [Meta-circular evaluator](https://en.wikipedia.org/wiki/Meta-circular_evaluator) - An interpreter that defines each feature of the interpreted language using a similar facility of the interpreter's host language.
 - [A Micro-Manual for LISP - Not the whole truth](https://github.com/jaseemabid/micromanual) - The LISP interpreter written in LISP.
 - [Fix-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator) - A higher-order function fix that, for any function f that has an attractive fixed point, returns a fixed point x of that function.

@@ -20,7 +20,7 @@ A curated list of examples of self-reference in art, science, and technology.
 
 ## Language
 
-- [Autogram](https://en.wikipedia.org/wiki/Autogram) - A sentence that describes itself in the sense of providing an inventory of its own characters.
+- [Autogram](https://autograms.net) - A sentence that describes itself in the sense of providing an inventory of its own characters.
 - [Fumblerule](https://en.wikipedia.org/wiki/Fumblerules) - A rule of language or linguistic style, humorously written in such a way that it breaks this rule.
 - [Recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym) - An acronym that refers to itself.
 
